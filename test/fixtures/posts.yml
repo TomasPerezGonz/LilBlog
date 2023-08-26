@@ -1,7 +1,7 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 first_post:
-  title: Di First Post
+  title: First
   description: Description for The First Post
 second_post:
   title: Di Second Post
@@ -9,3 +9,5 @@ second_post:
 third_post:
   title: Di Third Post
   description: Description for The Third Post
+
+
